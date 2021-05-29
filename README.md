@@ -69,6 +69,7 @@ Run the app with the following command:
 ```
 
 Output:
+
 <img src="https://drive.google.com/uc?export=view&id=1FyhHS3SjzHVbyxdxqw1lbH0D2oYfXj6-" width="200" />
 
 ##### Backend
@@ -109,4 +110,5 @@ python app.py
 ```
 
 Output:
+
 <img src="https://drive.google.com/uc?export=view&id=1la-pu8okqrePr5WbUCl8Pk38jy_ogDJj"  />
