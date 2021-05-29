@@ -10,14 +10,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-##### Depresscape App
+#### Depresscape App
 
 <ul>
 <li><a href="https://flutter.dev/docs/get-started/install/windows#get-the-flutter-sdk">Install Flutter</a></li>
 <li><a href="https://flutter.dev/docs/get-started/install/windows#android-setup">Android Emulator</a></li>
 </ul>
 
-##### Backend
+#### Backend
 
 <ul>
 <li><a href="https://www.python.org/downloads/release/python-3810/">Python 3.8</a></li>
@@ -38,7 +38,7 @@ Depresscape Project
 
 A step by step series of examples that tell you how to get a development env running
 
-##### Depresscape App
+#### Depresscape App
 
 Step 1:
 From Depresscape Project directory which is root directory cd into depresscape:
@@ -72,7 +72,7 @@ Output:
 
 <img src="https://drive.google.com/uc?export=view&id=1FyhHS3SjzHVbyxdxqw1lbH0D2oYfXj6-" width="200" />
 
-##### Backend
+#### Backend
 
 Step 1:
 From Depresscape Project directory which is root directory cd into backend:
